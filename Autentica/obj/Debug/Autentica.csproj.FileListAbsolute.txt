@@ -1,0 +1,8 @@
+C:\DotNetProjects\Autentica\Autentica\bin\Debug\Autentica.exe
+C:\DotNetProjects\Autentica\Autentica\bin\Debug\Autentica.pdb
+C:\DotNetProjects\Autentica\Autentica\obj\Debug\Autentica.csprojAssemblyReference.cache
+C:\DotNetProjects\Autentica\Autentica\obj\Debug\Autentica.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\Autentica\Autentica\obj\Debug\Autentica.exe
+C:\DotNetProjects\Autentica\Autentica\obj\Debug\Autentica.pdb
+C:\DotNetProjects\Autentica\Autentica\bin\Debug\BouncyCastle.Crypto.dll
+C:\DotNetProjects\Autentica\Autentica\obj\Debug\Autentica.csproj.CopyComplete
